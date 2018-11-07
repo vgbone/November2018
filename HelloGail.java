@@ -1,4 +1,4 @@
-console log "Hello Gail"; 
+// console log "Hello Gail"; 
 
 public class HelloGail {
 	public static void main(String[] args) {
